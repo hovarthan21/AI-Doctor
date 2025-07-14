@@ -1,0 +1,84 @@
+name,dateofbirth,gender,symptoms,causes,disease,medicine,food_intake,food_avoid
+John Doe,15-05-1980,Male,"Fever, Cough",Viral Infection,common cold,"Ibuprofen, Rest","citrus fruits, ginger, garlic, honey, warm fluids","dairy, sugary foods, fried foods"
+Jane Smith,10-08-1992,Female,"Headache, Fatigue",Stress,migraine,Sumatriptan,"leafy greens, whole grains, bananas, magnesium-rich foods","chocolate, caffeine, processed meat, alcohol"
+Michael Lee,20-02-1975,Male,Shortness of breath,Pollution,asthma,Albuterol Inhaler,"apples, carrots, spinach, omega-3 rich fish","sulfites, processed foods, dairy"
+Emily Chen,03-11-1988,Female,"Nausea, Vomiting",Food Poisoning,gastroenteritis,Oral Rehydration,"rice, banana, applesauce, toast (BRAT diet)","dairy, caffeine, greasy food"
+Alex Wong,12-06-2001,Male,Sore Throat,Bacterial Infection,strep throat,Penicillin,"warm soup, soft fruits, herbal teas","hard snacks, acidic drinks, spicy foods"
+Sarah Kim,25-03-1972,Female,"Joint Pain, Fatigue",Rheumatoid Arthritis,arthritis,NSAIDs,"omega-3 foods, turmeric, green tea","processed sugars, red meat"
+David Wu,18-09-1995,Male,"Chest Pain, Dizziness",High Blood Pressure,hypertension,Amlodipine,"low-sodium foods, leafy greens, oats, berries","salt, pickles, processed meat"
+Olivia Tan,08-07-1987,Female,"Itching, Redness",Allergies,allergic reaction,Antihistamine,Information not available,Information not available
+Chris Ng,01-12-1983,Male,"Abdominal Pain, Bloating",Poor Diet,indigestion,Antacids,"yogurt, bananas, oatmeal, ginger tea","spicy food, carbonated drinks, caffeine, alcohol"
+Samantha Liu,30-04-1998,Female,"Fatigue, Sadness",Depression,major depressive,Sertraline,Information not available,Information not available
+,,,"Dizziness, Fatigue,depression",Blunt chest trauma,Heart contusion,"pain relievers,Rest","Anti-inflammatory foods, water","Alcohol, caffeine"
+Kevin Yeo,22-10-1978,Male,"Fever, Muscle Aches",Viral Infection,influenza,Acetaminophen,"broth, fruits high in vitamin C, garlic, ginger","fried foods, caffeine, dairy"
+Grace Lim,14-01-2005,Female,"Cough, Sneezing",Cold Weather,common cold,"Honey, Rest","citrus fruits, ginger, garlic, honey, warm fluids","dairy, sugary foods, fried foods"
+Daniel Oh,19-07-1990,Male,"Nausea, Dizziness",Motion Sickness,motion sickness,Dimenhydrinate,Information not available,Information not available
+Linda Goh,08-09-1982,Female,Shortness of breath,Smoking,chronic bronchitis,Inhalers,Information not available,Information not available
+Ryan Tan,02-06-1971,Male,"Headache, Blurred Vision",Migraine Triggers,migraine,Beta-blockers,"leafy greens, whole grains, bananas, magnesium-rich foods","chocolate, caffeine, processed meat, alcohol"
+Ella Chu,12-03-1999,Female,"Stomach Pain, Diarrhea",Spicy Food,gastritis,"Antacids, Rest",Information not available,Information not available
+Peter Ho,25-04-1986,Male,"Joint Pain, Swelling",Autoimmune Response,rheumatoid arthritis,NSAIDs,Information not available,Information not available
+Hannah Wong,09-12-2002,Female,"Fever, Sore Throat",Viral Infection,tonsillitis,"Fluids, Rest",Information not available,Information not available
+Jack Tan,07-08-1979,Male,"Back Pain, Numbness",Herniated Disc,sciatica,Pain Relievers,Information not available,Information not available
+Michelle Lam,17-11-1993,Female,"Nausea, Vomiting",Pregnancy,morning sickness,"Ginger, Vitamin B6",Information not available,Information not available
+William Low,28-05-1989,Male,"Fatigue, Weakness",Anemia,iron deficiency,Iron Supplements,Information not available,Information not available
+Sophia Teo,03-02-2000,Female,"Anxiety, Rapid Heartbeat",Stress,panic disorder,Cognitive Therapy,Information not available,Information not available
+Andrew Ng,16-07-1974,Male,Shortness of breath,Obesity,sleep apnea,CPAP Machine,Information not available,Information not available
+Karen Tan,30-09-1984,Female,"Skin Rash, Itching",Allergies,dermatitis,Topical Steroids,Information not available,Information not available
+Eric Koh,08-01-1997,Male,"Cough, Fever",Viral Infection,respiratory infection,"Antivirals, Rest",Information not available,Information not available
+Jason Lee,11-06-2003,Male,"Dizziness, Fatigue",Dehydration,heat exhaustion,"Hydration, Rest",Information not available,Information not available
+Natalie Tan,19-10-1987,Female,"Headache, Sensitivity",Tension,tension headache,"Relaxation, NSAIDs",Information not available,Information not available
+Oscar Neo,02-09-1994,Male,"Abdominal Pain, Bloating O",vereating            ,indigestion,Antacids,"yogurt, bananas, oatmeal, ginger tea","spicy food, carbonated drinks, caffeine, alcohol"
+Sophie Goh,14-12-2001,Female,"Nausea, Cramps",Menstrual Cycle,menstrual cramps,Pain Relievers,Information not available,Information not available
+Vincent Teo,26-08-1977,Male,"Chest Pain, Shortness of breath",Heart Disease,coronary arterydisease,Nitroglycerin,Information not available,Information not available
+Isabella Koh,08-04-1996,Female,"Fatigue, Difficulty breathing",Hypothyroidism,thyroid disorder,Levothyroxine,"iodine-rich foods, selenium-rich foods, eggs","soy, cruciferous vegetables (excess)"
+Ethan Lim,30-11-1980,Male,"Fever, Chills",Infection,pneumonia,"Antibiotics, Rest",Information not available,Information not available
+Ryan Koh,18-02-1975,Male,"Muscle Pain, Fatigue",Overexertion,muscle strain,"Rest, Pain Relievers",Information not available,Information not available
+David Lim,05-10-1999,Male,"Headache, Blurred Vision",Eye Strain,vision fatigue,"Rest, Eye Exercises",Information not available,Information not available
+Oliver Wang,14-08-1986,Male,"Stomach Pain, Diarrhea",Food Poisoning,gastroenteritis,"Fluids, Bland Diet","rice, banana, applesauce, toast (BRAT diet)","dairy, caffeine, greasy food"
+Ava Yeo,25-01-1973,Female,"Back Pain, Numbness",Sciatica,herniated disc,"Pain Relievers, PT",Information not available,Information not available
+Grace Lee,07-12-1992,Female,"Fatigue, Weakness",Chronic Fatigue Syndrome,chronic fatigue syndrome,"Rest, Lifestyle",Information not available,Information not available
+Sophie Neo,28-06-1983,Female,"Anxiety, Palpitations",Stress,anxiety disorder,"Therapy, Medication","salmon, chamomile tea, yogurt, dark chocolate","alcohol, caffeine, sugar"
+Evan Teo,17-03-2002,Male,"Chest Pain, Shortness of breath",Physical Exertion,muscle overuse,"Rest, Stretching",Information not available,Information not available
+Lily Lim,26-04-1989,Female,"Joint Pain, Swelling",Rheumatoid Arthritis,arthritis,NSAIDs,"omega-3 foods, turmeric, green tea","processed sugars, red meat"
+Sarah Kim,25-03-1972,Female,"Joint Pain, Fatigue",Rheumatoid Arthriti,s  arthritis,NSAIDs,Information not available,Information not available
+Samantha Liu,30-04-1998,Female,"Fatigue, Sadness",Depression,major depressive disorder, Sertraline,Information not available,Information not available
+Grace Neo,16-09-1988,Female,"Itching, Redness",Allergies,allergic reacti,on   Antihistamine,Information not available,Information not available
+Evan Teo,17-03-2002,Male,"Chest Pain, Shortness",Physical Exertion,muscle overuse,"Rest, Stretching",Information not available,Information not available
+,,,of breath,,,,Information not available,Information not available
+Sophia Koh,29-11-1976,Female,"Fatigue, Weakness",Chronic Fatigue Syndrome,chronic fatigue,"Rest, Lifestyle",Information not available,Information not available
+,,,,,syndrome,,Information not available,Information not available
+Sophie Lim,05-06-2000,Female," Anxiety, Rapid Heartbeat",Stress,panic disorder,Cognitive Therapy,Information not available,Information not available
+Linda Neo,28-04-1989,Female," Skin Rash, Itching",Allergies,dermatitis,Topical Steroids,Information not available,Information not available
+Alex Koh,11-12-1995,Male,"Cough, Fever",Viral Infection,respiratoryinfection,"Antivirals, Rest",Information not available,Information not available
+Vincent Tan,26-08-1977,Male,"Chest Pain, Shortness of breath",Heart Disease,coronary artery,"  Nitroglycerin,Aspirin",Information not available,Information not available
+Grace Ng,16-09-1988,Femal,"e Itching, Redness",Allergies,allergic reaction, Antihistamine,Information not available,Information not available
+Sophia Tan,21-05-2004,Femal," Nausea, Vomiting",Food Poisoning,gastroenteritis,  Oral Rehydration,"rice, banana, applesauce, toast (BRAT diet)","dairy, caffeine, greasy food"
+Ava Yeo,25-01-1973,Femal," Back Pain, Numbness",Sciatica,herniated disc,"Pain Relievers, PT",Information not available,Information not available
+Grace Lee,07-12-1992,Femal," Fatigue, Weakness",Chronic Fatigue Syndrome,chronic fatigue syndrome,"  Rest, Lifestyle",Information not available,Information not available
+Sophie Neo,28-06-1983,Femal," Anxiety, Palpitations",Stress,anxiety disorder,"Therapy, Medication","salmon, chamomile tea, yogurt, dark chocolate","alcohol, caffeine, sugar"
+Lily Lim,26-04-1989,Femal,"e Joint Pain, Swelling",Rheumatoid Arthrit,is  arthritis,NSAIDs,Information not available,Information not available
+Sophia Koh,29-11-1976,Femal,"e Fatigue, Weakness",Chronic Fatigue,chronic fatigue,"Rest, Lifestyle",Information not available,Information not available
+Sophia Tan,21-05-2004,Femal,"e Nausea, Vomiting",Food Poisoning,gastroenteritis,Oral Rehydration,"rice, banana, applesauce, toast (BRAT diet)","dairy, caffeine, greasy food"
+Ava Yeo,25-01-1973,Femal,"e Back Pain, Numbness",Sciatica,herniated disc,"Pain Relievers, PT",Information not available,Information not available
+Sophie Neo,28-06-1983,Femal,"e Anxiety, Palpitations",Stress,anxiety disorder,"Therapy, Medication","salmon, chamomile tea, yogurt, dark chocolate","alcohol, caffeine, sugar"
+Lily Lim,26-04-1989,Femal,"e Joint Pain, Swelling",Rheumatoid Arthritis,arthritis,NSAIDs,"omega-3 foods, turmeric, green tea","processed sugars, red meat"
+Sophia Koh,29-11-1976,Femal,"e Fatigue, Weakness",Chronic Fatigue Syndrome,chronic fatigue syndrome," Rest, Lifestyle",Information not available,Information not available
+Emma Wong,10-04-1995,Female,"Sore Throat, Cough",Bacterial Infection,strep throat,Penicillin,"warm soup, soft fruits, herbal teas","hard snacks, acidic drinks, spicy foods"
+Benjamin Tan,26-07-1976,Male,"Chest Pain, Shortness of breath",Heart Disease,coronary artery disease,"Nitroglycerin,Aspirin",Information not available,Information not available
+Ryan Lim,07-01-2003,Male,"Cough, Fever",Viral Infection,respiratory,"Antivirals, Rest",Information not available,Information not available
+,,,,,infection,,Information not available,Information not available
+Benjamin Tan,26-07-1976,Male,"Chest Pain, Shortness",Heart Disease,coronary artery,Nitroglycerin,Information not available,Information not available
+,,,of breath,,disease,Aspirin,Information not available,Information not available
+Mia Neo,18-10-1995,Female,"Fatigue, Difficulty",Hypothyroidism,thyroid disorder,Levothyroxine,"iodine-rich foods, selenium-rich foods, eggs","soy, cruciferous vegetables (excess)"
+,,br,eathing,,,,Information not available,Information not available
+Ryan Lim,07-01-2003,Male,"Cough, Fever",Viral Infection     ,respiratory     antiinfection,"virals, Rest",Information not available,Information not available
+Aiden Neo,22-08-1997,Male,"Dizziness, Fatigue",Dehydration         ,heat exhaustion hydr,"ation, Rest",Information not available,Information not available
+Nora Tan,10-01-1989,Female,"Headache, Sensitivity",Tension             ,tension headache rel,"axation, NSAIDs",Information not available,Information not available
+Eli Goh,09-12-1994,Male,"Abdominal Pain, Bloating",Overeating          ,indigestion     anta,cids,Information not available,Information not available
+Emma Lim,02-03-2001,Female,"Nausea, Cramps",Menstrual Cycle    ,menstrual cramps pai,n Relievers,Information not available,Information not available
+Benjamin Tan,26-07-1976,Male,"Chest Pain, Shortnessof breath",Heart Disease       ,coronary artery disease,"Nitroglycerin,Aspirin",Information not available,Information not available
+Mia Neo,18-10-1995,Female,"Fatigue, Difficulty breathing",Hypothyroidism      ,disease, Levothyroxine,Information not available,Information not available
+Noah Koh,15-03-1980,Male,"Fever, Chills",Infection           ,pheumonia," Antibiotics, Rest",Information not available,Information not available
+Liam Goh,16-09-1987,Male,"Itching, Redness",Allergies           ,allergic reaction an,tihistamine,Information not available,Information not available
+Noah Lim,21-05-2005,Male,"Nausea, Vomiting",Food Poisoning  ,muscle strain,Rehydration,Information not available,Information not available
+Ella Wong,05-10-1999,Female,"Headache, Blurred Vision",Eye Strain          ,muscle strain,Eye Exercises,Information not available,Information not available
