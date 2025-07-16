@@ -5,23 +5,19 @@ import pickle
 import os
 
 # -------------------- Load Required Files --------------------
-# Load trained model
+
 with open("model/doctor_model.pkl", "rb") as f:
     doctor_model = pickle.load(f)
 
-# Load feature names
 with open("model/feature_names.pkl", "rb") as f:
     feature_names = pickle.load(f)
 
-# Load medical data
 medical_df = pd.read_csv("cleaned_medical_data_with_food_updated.csv")
 medical_df.columns = medical_df.columns.str.strip().str.lower()
 
 # -------------------- Streamlit Page Config --------------------
 st.set_page_config(page_title="AI Doctor", layout="wide")
 st.title("🤖 AI Doctor - Smart Pain Diagnosis")
-
-# -------------------- Navigation Tabs --------------------
 page = st.sidebar.radio("📌 Navigate", ["🏠 Patient Info", "💡 Diagnosis"])
 
 # -------------------- Page 1: Patient Info --------------------
@@ -36,7 +32,6 @@ if page == "🏠 Patient Info":
 
     if st.button("➡ Proceed to Diagnosis"):
         if name:
-            # Save patient data
             patient_data = pd.DataFrame([[name, age, gender, city, state, country]],
                                         columns=["Name", "Age", "Gender", "City", "State", "Country"])
             file_path = "patient_records.xlsx"
@@ -71,15 +66,12 @@ elif page == "💡 Diagnosis":
         if not selected_symptoms:
             st.error("⚠ Please select at least one symptom.")
         else:
-            # Create input vector
             input_dict = {symptom: 1 if symptom in selected_symptoms else 0 for symptom in feature_names}
             input_df = pd.DataFrame([input_dict])
 
-            # Predict disease
             predicted_disease = doctor_model.predict(input_df)[0]
             st.subheader(f"🧬 Predicted Disease: *{predicted_disease.title()}*")
 
-            # Lookup additional information
             row = medical_df[medical_df["disease"].str.strip().str.lower() == predicted_disease.strip().lower()]
             if not row.empty:
                 row = row.iloc[0]
