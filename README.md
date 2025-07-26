@@ -31,6 +31,11 @@ AI Doctor is a medical assistant web app built using **Streamlit** that helps us
 
  4. Click Diagnose.
 
+## AI Doctor Video
+
+[▶ Watch Video](https://drive.google.com/file/d/10EzoKsvOcUnVbKh4_xUgTNsmn81ZNhCd/view)
+
+
 You’ll see:
 
 🧬 Predicted Disease
