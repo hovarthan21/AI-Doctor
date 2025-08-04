@@ -4,6 +4,11 @@ AI Doctor is a medical assistant web app built using **Streamlit** that helps us
 
 > 🚀 Built by [Hovarthan S](https://github.com/hovarthan21)
 
+<p align="center">
+  <img src="doctor.jpg" width="150" alt="AI Doctor Logo" />
+</p>
+
+
 
 ##  Features
 
